@@ -1,1 +1,1 @@
-Sivlovski's Blog, Powered by Astro & Fuwari.
+Sivlovski's Blog, Powered by [Astro](https://astro.build/) & [Fuwari](https://github.com/saicaca/fuwari).
