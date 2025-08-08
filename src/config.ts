@@ -31,8 +31,8 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		{
-		   src: '/favicon/favicon.png',    // Path of the favicon, relative to the /public directory
-		}
+			src: "/favicon/favicon.png", // Path of the favicon, relative to the /public directory
+		},
 	],
 };
 
